@@ -1,4 +1,4 @@
-# The report is Math_final_report.pdf and working notebook is Final_notebook.ipynb
+# The report is Group 12 Reports . Math_final_report.pdf and working notebook is Final_notebook.ipynb
 
 
 # D2L Deep Learning Environment
