@@ -1,4 +1,10 @@
-# This is Group 12 for subject Mathematical Foundation for Computer Science
+# Nhóm 12 - môn Mathematics Foundations for Computer Science (CO5097)
+1. Ngô Nhất Toàn - 2570515
+2. Trần Hoàng Ân - 2570548
+3. Trần Huy Phước - 2570482
+4. Lê Thành Đạt - 2370497
+5. Phạm Minh Quang - 2570302
+
 # Math_final_report.pdf and working notebook is Final_notebook.ipynb
 
 
