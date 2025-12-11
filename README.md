@@ -1,3 +1,6 @@
+# The report is Math_final_report.pdf and working notebook is Final_notebook.ipynb
+
+
 # D2L Deep Learning Environment
 
 A conda environment for deep learning with PyTorch 2.0, CUDA 11.7 support, and the Dive into Deep Learning (D2L) framework.
