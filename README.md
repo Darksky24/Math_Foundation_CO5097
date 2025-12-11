@@ -1,4 +1,5 @@
-# The report is Group 12 Reports . Math_final_report.pdf and working notebook is Final_notebook.ipynb
+#This is Group 12 for subject Mathematical Foundation for Computer Science
+#Math_final_report.pdf and working notebook is Final_notebook.ipynb
 
 
 # D2L Deep Learning Environment
