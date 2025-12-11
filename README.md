@@ -1,7 +1,7 @@
 # D2L Deep Learning Environment
 
 A conda environment for deep learning with PyTorch 2.0, CUDA 11.7 support, and the Dive into Deep Learning (D2L) framework.
-
+sh Miniconda3-py39_4.12.0-Linux-x86_64.sh -b
 ## 📋 Environment Specifications
 
 - **Python**: 3.9.25
@@ -21,66 +21,7 @@ A conda environment for deep learning with PyTorch 2.0, CUDA 11.7 support, and t
 - Minimum NVIDIA driver version: 450.80.02
 
 ### Method 1: Using environment.yml (Recommended)
-
-1. **Create `environment.yml` file:**
-
-name: d2l
-channels:
-
-defaults
-
-conda-forge
-dependencies:
-
-python=3.9.25
-
-pip=25.3
-
-numpy=1.23.5
-
-matplotlib=3.7.2
-
-pandas=2.0.3
-
-scikit-learn=1.2.2
-
-scipy=1.10.1
-
-pip:
-
-PyTorch with CUDA 11.7 support
-torch==2.0.0
-
-torchvision==0.15.1
-
-Deep Learning
-d2l==1.0.3
-
-Jupyter & Lab
-jupyter==1.0.0
-
-jupyterlab==4.5.0
-
-ipykernel==6.31.0
-
-ipython==8.18.1
-
-ipywidgets==8.1.8
-
-notebook==7.5.0
-
-Data Science
-joblib==1.5.2
-
-Utilities
-requests==2.31.0
-
-beautifulsoup4==4.14.3
-
-matplotlib-inline==0.1.6
-
-
-2. **Create and activate the environment:**
+**Create and activate the environment:**
 conda env create -f environment.yml
 conda activate d2l
 
